@@ -25,9 +25,7 @@ Our solution is an AI chatbot called WingSpan, which offers comprehensive functi
 
 ### Business Video and System Design Video
 
-- Please find the video links in below text file or just click the thumbnails below to watch them:
-
-text to video links
+- Please find the videos by just clicking the thumbnails below to watch them:
 
 #### Business Video Presentation
 
